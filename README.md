@@ -89,6 +89,12 @@ libraryManagement.borrowBook(patronId, bookId);
 libraryManagement.returnBook(patronId, bookId);
 ```
 
+## Class Diagram
+
+![Library System Class Diagram](src/main/docs/class-diagram.drawio.png)
+
+
+
 ## Future Improvements
 
 - Implement REST API for remote access.
